@@ -1,0 +1,11 @@
+site_id,date,nitrate_mgL,phosphate_mgL,turbidity_NTU,temp_C,county,state
+WC-001,2025-09-28,2.3,0.12,3.1,14.5,Willow Creek,OR
+WC-002,2025-09-28,,0.05,1.0,13.8,willow creek,OR
+WC-003,2025-09-28,5.8,,8.9,12.4,Willow Creek,OR
+WC-004,2025-09-29,0.8,0.03,0.6,,Willow Creek,OR
+WC-005,2025-09-29,12.1,0.2,15.2,10.1,North Fork,OR
+WC-006,2025-09-30,,0.07,2.2,11.0,North Fork,OR
+WC-007,2025-09-30,3.0,0.02,,9.7,South Fork,OR
+WC-008,2025-10-01,1.1,0.01,0.3,8.8,South Fork,OR
+WC-009,2025-10-01,7.4,0.15,12.0,10.0,South Fork,OR
+WC-010,2025-10-02,0.5,,0.5,8.1,South Fork,OR
