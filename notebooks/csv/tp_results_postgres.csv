@@ -1,0 +1,7 @@
+sample_id,site,date,parameter,value,units
+14,Columbia Slough,2025-08-10,TP,0.11,mg/L
+15,Columbia Slough,2025-09-21,TP,0.09,mg/L
+10,Willow Creek,2025-08-12,TP,0.08,mg/L
+11,Willow Creek,2025-09-02,TP,0.05,mg/L
+13,Bear River,2025-09-20,TP,0.04,mg/L
+12,Bear River,2025-08-15,TP,0.03,mg/L
