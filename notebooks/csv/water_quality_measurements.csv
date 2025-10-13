@@ -1,0 +1,9 @@
+sample_date,county,station_id,nitrate_mgl,longitude,latitude
+2025-09-28,Clatsop,ST-001,1.5,-123.9,46.16
+2025-09-29,Clatsop,ST-002,2.1,-123.8,46.18
+2025-10-01,Clatsop,ST-001,,-123.9,46.16
+2025-09-27,Tillamook,ST-010,3.2,-123.8,45.45
+2025-10-02,Tillamook,ST-011,2.8,-123.7,45.42
+2025-10-03,Tillamook,ST-012,4.0,-123.6,45.4
+2025-09-30,Lincoln,ST-020,0.9,-124.0,44.95
+2025-10-01,Lincoln,ST-021,1.1,-124.1,44.97
